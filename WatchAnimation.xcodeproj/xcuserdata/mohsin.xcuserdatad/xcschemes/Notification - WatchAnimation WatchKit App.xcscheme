@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0620"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42C83CE31AD401E4003DCC44"
+               BuildableName = "WatchAnimation WatchKit App.app"
+               BlueprintName = "WatchAnimation WatchKit App"
+               ReferencedContainer = "container:WatchAnimation.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42C83CAA1AD3FD18003DCC44"
+               BuildableName = "WatchAnimation.app"
+               BlueprintName = "WatchAnimation"
+               ReferencedContainer = "container:WatchAnimation.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42C83CD61AD401E4003DCC44"
+               BuildableName = "WatchAnimation WatchKit Extension.appex"
+               BlueprintName = "WatchAnimation WatchKit Extension"
+               ReferencedContainer = "container:WatchAnimation.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42C83CE31AD401E4003DCC44"
+            BuildableName = "WatchAnimation WatchKit App.app"
+            BlueprintName = "WatchAnimation WatchKit App"
+            ReferencedContainer = "container:WatchAnimation.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "8"
+      notificationPayloadFile = "WatchAnimation WatchKit Extension/PushNotificationPayload.apns">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WatchAnimation">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42C83CE31AD401E4003DCC44"
+            BuildableName = "WatchAnimation WatchKit App.app"
+            BlueprintName = "WatchAnimation WatchKit App"
+            ReferencedContainer = "container:WatchAnimation.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42C83CE31AD401E4003DCC44"
+            BuildableName = "WatchAnimation WatchKit App.app"
+            BlueprintName = "WatchAnimation WatchKit App"
+            ReferencedContainer = "container:WatchAnimation.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WatchAnimation">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42C83CE31AD401E4003DCC44"
+            BuildableName = "WatchAnimation WatchKit App.app"
+            BlueprintName = "WatchAnimation WatchKit App"
+            ReferencedContainer = "container:WatchAnimation.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42C83CE31AD401E4003DCC44"
+            BuildableName = "WatchAnimation WatchKit App.app"
+            BlueprintName = "WatchAnimation WatchKit App"
+            ReferencedContainer = "container:WatchAnimation.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
