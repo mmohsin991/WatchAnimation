@@ -16,6 +16,11 @@
                                 <action selector="animate" destination="AgC-eL-Hgc" id="yaQ-ua-6O5"/>
                             </connections>
                         </button>
+                        <switch width="1" alignment="left" value="YES" title="Switch" id="lpb-Oq-IGY">
+                            <connections>
+                                <action selector="abc:" destination="AgC-eL-Hgc" id="iDS-3V-pNe"/>
+                            </connections>
+                        </switch>
                     </items>
                     <connections>
                         <outlet property="image" destination="sAw-zl-F07" id="8gn-Gv-hav"/>

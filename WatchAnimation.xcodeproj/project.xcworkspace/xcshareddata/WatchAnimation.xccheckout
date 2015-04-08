@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A2DBEA8-6432-4A44-99F0-2BCDBBE5D9EF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WatchAnimation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>148AB811C24747B57D7C9028F51E256D9163AB48</key>
+		<string>https://github.com/mmohsin991/WatchAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WatchAnimation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>148AB811C24747B57D7C9028F51E256D9163AB48</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mmohsin991/WatchAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>148AB811C24747B57D7C9028F51E256D9163AB48</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>148AB811C24747B57D7C9028F51E256D9163AB48</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WatchAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>

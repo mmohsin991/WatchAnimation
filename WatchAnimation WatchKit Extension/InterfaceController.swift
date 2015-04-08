@@ -12,6 +12,7 @@ import Foundation
 
 class InterfaceController: WKInterfaceController {
 
+    
     @IBOutlet weak var image: WKInterfaceImage!
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
@@ -32,7 +33,7 @@ class InterfaceController: WKInterfaceController {
     }
     @IBAction func animate() {
     
-        self.image.startAnimatingWithImagesInRange(NSMakeRange(1, 3) , duration: 3, repeatCount: 1)
+        self.image.startAnimatingWithImagesInRange(NSMakeRange(0, 3) , duration: 1, repeatCount: 4)
         
 //        
 //        let images = [UIImage(named: "flower1")!,UIImage(named: "flower2")!,UIImage(named: "flower3")!]
@@ -40,6 +41,12 @@ class InterfaceController: WKInterfaceController {
 //        let animatedImages = UIImage.animatedImageWithImages(images, duration: 3)
 //        
 //        self.image.setImage(animatedImages)
+        
+        WKInterfaceController.openParentApplication(["" : ""], reply: nil)
+    }
+
+    @IBAction func abc(value: Bool) {
+        println(value)
     }
     
 
